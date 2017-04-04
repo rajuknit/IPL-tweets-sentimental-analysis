@@ -1,2 +1,2 @@
 # IPL-tweets-sentimental-analysis
-Python script to genearte a live graph between sentimental values of tweets for two teams.
+Python script to generate a live graph between sentimental values of tweets for the two teams.
